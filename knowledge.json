@@ -8,14 +8,14 @@
         "does%Damage": false,
         "hasGlobalMobility": true,
         "canRepairStructures": true,
-        "goodSinergy": [
-            { "id": "", "name": "Illidan" },
-            { "id": "", "name": "Tracer" },
-            { "id": "", "name": "Zeratul" },
-            { "id": "", "name": "Samuro" },
-            { "id": "", "name": "Valeera" },
-            { "id": "", "name": "Sonya" }
-        ],
+        "goodSinergy": {
+            "2": { "amount": 2, "name": "Illidan" },
+            "3": { "amount": 2, "name": "Tracer" },
+            "4": { "amount": 2, "name": "Zeratul" },
+            "5": { "amount": 1, "name": "Samuro" },
+            "6": { "amount": 1, "name": "Valeera" },
+            "7": { "amount": 1, "name": "Sonya" }
+        },
         "badSinergy": [
             { "id": "", "name": "The Lost Vikings" },
             { "id": "", "name": "Probius" },
