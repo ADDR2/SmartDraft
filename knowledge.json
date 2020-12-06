@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Abathur",
+        "id": "1",
+        "role": "support",
+        "canSoakWell": true,
+        "canBurst": false,
+        "does%Damage": false,
+        "hasGlobalMobility": true,
+        "canRepairStructures": true,
+        "goodSinergy": [
+            { "id": "", "name": "Illidan" },
+            { "id": "", "name": "Tracer" },
+            { "id": "", "name": "Zeratul" },
+            { "id": "", "name": "Samuro" },
+            { "id": "", "name": "Valeera" },
+            { "id": "", "name": "Sonya" }
+        ],
+        "badSinergy": [
+            { "id": "", "name": "The Lost Vikings" },
+            { "id": "", "name": "Probius" },
+            { "id": "", "name": "Medivh" },
+            { "id": "", "name": "Azmodan" },
+            { "id": "", "name": "Nova" }
+        ],
+        "goodAgainst": [
+            { "id": "", "name": "Murky" }
+        ],
+        "badAgainst": [
+            { "id": "", "name": "Medivh" },
+            { "id": "", "name": "Nova" },
+            { "id": "", "name": "Zeratul" },
+            { "id": "", "name": "Genji" },
+            { "id": "", "name": "Kel'thuzad" }
+        ],
+        "goodIn": [
+            { "id": "", "name": "Warhead Junction" },
+            { "id": "", "name": "Dragon Shire" },
+            { "id": "", "name": "Cursed Hollow" },
+            { "id": "", "name": "Towers of Doom" }
+        ],
+        "badIn": [
+            { "id": "", "name": "Hanamura Temple" },
+            { "id": "", "name": "Braxis Holdaout" },
+            { "id": "", "name": "Battlefield of Eternity" },
+            { "id": "", "name": "Garden of Terror" }
+        ]
+    }
+]
