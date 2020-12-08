@@ -5,7 +5,7 @@
         "role": "support",
         "canSoakWell": true,
         "canBurst": false,
-        "does%Damage": false,
+        "doesPercentageDmg": false,
         "hasGlobalMobility": true,
         "canRepairStructures": true,
         "goodSinergy": {
