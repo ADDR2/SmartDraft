@@ -776,62 +776,6 @@
 	},
 	{
 		"name": "Guldan",
-		"id": "27",
-		"role": "support",
-		"canSoakWell": true,
-		"canBurst": false,
-		"does%Damage": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
-		"goodSinergy": {
-
-		},
-		"badSinergy": {
-
-		},
-		"goodAgainst": {
-
-		},
-		"badAgainst": {
-
-		},
-		"goodIn": {
-
-		},
-		"badIn": {
-
-		}
-	},
-	{
-		"name": "Hanzo",
-		"id": "27",
-		"role": "support",
-		"canSoakWell": true,
-		"canBurst": false,
-		"does%Damage": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
-		"goodSinergy": {
-
-		},
-		"badSinergy": {
-
-		},
-		"goodAgainst": {
-
-		},
-		"badAgainst": {
-
-		},
-		"goodIn": {
-
-		},
-		"badIn": {
-
-		}
-	},
-	{
-		"name": "Hogger",
 		"id": "28",
 		"role": "support",
 		"canSoakWell": true,
@@ -859,7 +803,7 @@
 		}
 	},
 	{
-		"name": "Illidan",
+		"name": "Hanzo",
 		"id": "29",
 		"role": "support",
 		"canSoakWell": true,
@@ -887,7 +831,7 @@
 		}
 	},
 	{
-		"name": "Imperius",
+		"name": "Hogger",
 		"id": "30",
 		"role": "support",
 		"canSoakWell": true,
@@ -915,7 +859,7 @@
 		}
 	},
 	{
-		"name": "jaina",
+		"name": "Illidan",
 		"id": "31",
 		"role": "support",
 		"canSoakWell": true,
@@ -943,7 +887,7 @@
 		}
 	},
 	{
-		"name": "Johanna",
+		"name": "Imperius",
 		"id": "32",
 		"role": "support",
 		"canSoakWell": true,
@@ -971,7 +915,7 @@
 		}
 	},
 	{
-		"name": "Junkrat",
+		"name": "jaina",
 		"id": "33",
 		"role": "support",
 		"canSoakWell": true,
@@ -999,7 +943,7 @@
 		}
 	},
 	{
-		"name": "Kaelthas",
+		"name": "Johanna",
 		"id": "34",
 		"role": "support",
 		"canSoakWell": true,
@@ -1027,7 +971,7 @@
 		}
 	},
 	{
-		"name": "Kelthuzad",
+		"name": "Junkrat",
 		"id": "35",
 		"role": "support",
 		"canSoakWell": true,
@@ -1055,7 +999,7 @@
 		}
 	},
 	{
-		"name": "Kerrigan",
+		"name": "Kaelthas",
 		"id": "36",
 		"role": "support",
 		"canSoakWell": true,
@@ -1083,7 +1027,7 @@
 		}
 	},
 	{
-		"name": "Kharazim",
+		"name": "Kelthuzad",
 		"id": "37",
 		"role": "support",
 		"canSoakWell": true,
@@ -1111,7 +1055,7 @@
 		}
 	},
 	{
-		"name": "Leoric",
+		"name": "Kerrigan",
 		"id": "38",
 		"role": "support",
 		"canSoakWell": true,
@@ -1139,7 +1083,7 @@
 		}
 	},
 	{
-		"name": "Li Li",
+		"name": "Kharazim",
 		"id": "39",
 		"role": "support",
 		"canSoakWell": true,
@@ -1167,7 +1111,7 @@
 		}
 	},
 	{
-		"name": "Li ming",
+		"name": "Leoric",
 		"id": "40",
 		"role": "support",
 		"canSoakWell": true,
@@ -1195,7 +1139,7 @@
 		}
 	},
 	{
-		"name": "Lt Morales",
+		"name": "Li Li",
 		"id": "41",
 		"role": "support",
 		"canSoakWell": true,
@@ -1223,7 +1167,7 @@
 		}
 	},
 	{
-		"name": "Lunara",
+		"name": "Li ming",
 		"id": "42",
 		"role": "support",
 		"canSoakWell": true,
@@ -1251,7 +1195,7 @@
 		}
 	},
 	{
-		"name": "Lucio",
+		"name": "Lt Morales",
 		"id": "43",
 		"role": "support",
 		"canSoakWell": true,
@@ -1279,7 +1223,35 @@
 		}
 	},
 	{
-		"name": "Maiev",
+		"name": "Lunara",
+		"id": "44",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Lucio",
 		"id": "45",
 		"role": "support",
 		"canSoakWell": true,
@@ -1307,7 +1279,7 @@
 		}
 	},
 	{
-		"name": "Malganis",
+		"name": "Maiev",
 		"id": "46",
 		"role": "support",
 		"canSoakWell": true,
@@ -1335,7 +1307,7 @@
 		}
 	},
 	{
-		"name": "Malfurion",
+		"name": "Malganis",
 		"id": "47",
 		"role": "support",
 		"canSoakWell": true,
@@ -1363,7 +1335,7 @@
 		}
 	},
 	{
-		"name": "Malthael",
+		"name": "Malfurion",
 		"id": "48",
 		"role": "support",
 		"canSoakWell": true,
@@ -1391,7 +1363,7 @@
 		}
 	},
 	{
-		"name": "Medivh",
+		"name": "Malthael",
 		"id": "49",
 		"role": "support",
 		"canSoakWell": true,
@@ -1419,7 +1391,7 @@
 		}
 	},
 	{
-		"name": "Mei",
+		"name": "Medivh",
 		"id": "50",
 		"role": "support",
 		"canSoakWell": true,
@@ -1447,7 +1419,7 @@
 		}
 	},
 	{
-		"name": "Mephisto",
+		"name": "Mei",
 		"id": "51",
 		"role": "support",
 		"canSoakWell": true,
@@ -1475,7 +1447,7 @@
 		}
 	},
 	{
-		"name": "Muradin",
+		"name": "Mephisto",
 		"id": "52",
 		"role": "support",
 		"canSoakWell": true,
@@ -1503,7 +1475,7 @@
 		}
 	},
 	{
-		"name": "Murky",
+		"name": "Muradin",
 		"id": "53",
 		"role": "support",
 		"canSoakWell": true,
@@ -1531,7 +1503,7 @@
 		}
 	},
 	{
-		"name": "Nazeebo",
+		"name": "Murky",
 		"id": "54",
 		"role": "support",
 		"canSoakWell": true,
@@ -1559,7 +1531,7 @@
 		}
 	},
 	{
-		"name": "Nova",
+		"name": "Nazeebo",
 		"id": "55",
 		"role": "support",
 		"canSoakWell": true,
@@ -1587,7 +1559,7 @@
 		}
 	},
 	{
-		"name": "Orphea",
+		"name": "Nova",
 		"id": "56",
 		"role": "support",
 		"canSoakWell": true,
@@ -1615,7 +1587,7 @@
 		}
 	},
 	{
-		"name": "Probius",
+		"name": "Orphea",
 		"id": "57",
 		"role": "support",
 		"canSoakWell": true,
@@ -1643,7 +1615,7 @@
 		}
 	},
 	{
-		"name": "Qhira",
+		"name": "Probius",
 		"id": "58",
 		"role": "support",
 		"canSoakWell": true,
@@ -1671,7 +1643,7 @@
 		}
 	},
 	{
-		"name": "Ragnaros",
+		"name": "Qhira",
 		"id": "59",
 		"role": "support",
 		"canSoakWell": true,
@@ -1699,7 +1671,7 @@
 		}
 	},
 	{
-		"name": "Raynor",
+		"name": "Ragnaros",
 		"id": "60",
 		"role": "support",
 		"canSoakWell": true,
@@ -1727,7 +1699,7 @@
 		}
 	},
 	{
-		"name": "Reghar",
+		"name": "Raynor",
 		"id": "61",
 		"role": "support",
 		"canSoakWell": true,
@@ -1755,7 +1727,7 @@
 		}
 	},
 	{
-		"name": "Rexxar",
+		"name": "Reghar",
 		"id": "62",
 		"role": "support",
 		"canSoakWell": true,
@@ -1783,7 +1755,7 @@
 		}
 	},
 	{
-		"name": "Samuro",
+		"name": "Rexxar",
 		"id": "63",
 		"role": "support",
 		"canSoakWell": true,
@@ -1811,7 +1783,7 @@
 		}
 	},
 	{
-		"name": "Sgt. Hammer",
+		"name": "Samuro",
 		"id": "64",
 		"role": "support",
 		"canSoakWell": true,
@@ -1839,7 +1811,7 @@
 		}
 	},
 	{
-		"name": "Sonya",
+		"name": "Sgt. Hammer",
 		"id": "65",
 		"role": "support",
 		"canSoakWell": true,
@@ -1867,7 +1839,7 @@
 		}
 	},
 	{
-		"name": "Stitches",
+		"name": "Sonya",
 		"id": "66",
 		"role": "support",
 		"canSoakWell": true,
@@ -1895,7 +1867,7 @@
 		}
 	},
 	{
-		"name": "Stukov",
+		"name": "Stitches",
 		"id": "67",
 		"role": "support",
 		"canSoakWell": true,
@@ -1923,7 +1895,7 @@
 		}
 	},
 	{
-		"name": "Sylvanas",
+		"name": "Stukov",
 		"id": "68",
 		"role": "support",
 		"canSoakWell": true,
@@ -1951,7 +1923,7 @@
 		}
 	},
 	{
-		"name": "Tassadar",
+		"name": "Sylvanas",
 		"id": "69",
 		"role": "support",
 		"canSoakWell": true,
@@ -1979,7 +1951,7 @@
 		}
 	},
 	{
-		"name": "The Butcher",
+		"name": "Tassadar",
 		"id": "70",
 		"role": "support",
 		"canSoakWell": true,
@@ -2007,7 +1979,7 @@
 		}
 	},
 	{
-		"name": "The Lost Vikings",
+		"name": "The Butcher",
 		"id": "71",
 		"role": "support",
 		"canSoakWell": true,
@@ -2035,7 +2007,7 @@
 		}
 	},
 	{
-		"name": "Thrall",
+		"name": "The Lost Vikings",
 		"id": "72",
 		"role": "support",
 		"canSoakWell": true,
@@ -2063,7 +2035,7 @@
 		}
 	},
 	{
-		"name": "Tracer",
+		"name": "Thrall",
 		"id": "73",
 		"role": "support",
 		"canSoakWell": true,
@@ -2091,7 +2063,7 @@
 		}
 	},
 	{
-		"name": "Tychus",
+		"name": "Tracer",
 		"id": "74",
 		"role": "support",
 		"canSoakWell": true,
@@ -2119,7 +2091,7 @@
 		}
 	},
 	{
-		"name": "Tyrael",
+		"name": "Tychus",
 		"id": "75",
 		"role": "support",
 		"canSoakWell": true,
@@ -2147,7 +2119,7 @@
 		}
 	},
 	{
-		"name": "Tyrande",
+		"name": "Tyrael",
 		"id": "76",
 		"role": "support",
 		"canSoakWell": true,
@@ -2175,7 +2147,7 @@
 		}
 	},
 	{
-		"name": "Uther",
+		"name": "Tyrande",
 		"id": "77",
 		"role": "support",
 		"canSoakWell": true,
@@ -2203,7 +2175,7 @@
 		}
 	},
 	{
-		"name": "Valeera",
+		"name": "Uther",
 		"id": "78",
 		"role": "support",
 		"canSoakWell": true,
@@ -2231,7 +2203,7 @@
 		}
 	},
 	{
-		"name": "Valla",
+		"name": "Valeera",
 		"id": "79",
 		"role": "support",
 		"canSoakWell": true,
@@ -2259,7 +2231,7 @@
 		}
 	},
 	{
-		"name": "Varian",
+		"name": "Valla",
 		"id": "80",
 		"role": "support",
 		"canSoakWell": true,
@@ -2287,7 +2259,7 @@
 		}
 	},
 	{
-		"name": "Whitemane",
+		"name": "Varian",
 		"id": "81",
 		"role": "support",
 		"canSoakWell": true,
@@ -2315,7 +2287,7 @@
 		}
 	},
 	{
-		"name": "Xul",
+		"name": "Whitemane",
 		"id": "82",
 		"role": "support",
 		"canSoakWell": true,
@@ -2343,7 +2315,7 @@
 		}
 	},
 	{
-		"name": "Yrel",
+		"name": "Xul",
 		"id": "83",
 		"role": "support",
 		"canSoakWell": true,
@@ -2371,7 +2343,7 @@
 		}
 	},
 	{
-		"name": "Zagara",
+		"name": "Yrel",
 		"id": "84",
 		"role": "support",
 		"canSoakWell": true,
@@ -2399,8 +2371,36 @@
 		}
 	},
 	{
-		"name": "Zarya",
+		"name": "Zagara",
 		"id": "85",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Zarya",
+		"id": "86",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2456,7 +2456,7 @@
 	},
 	{
 		"name": "Zuljin",
-		"id": "87",
+		"id": "88",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
