@@ -17,55 +17,78 @@
 			"66": { "amount": 1, "name": "Sonya" }
 		},
 		"badSinergy": {
-			"72":{ "id": "", "name": "The Lost Vikings" },
-			"58":{ "id": "", "name": "Probius" },
-			"50":{ "id": "", "name": "Medivh" },
-			"10":{ "id": "", "name": "Azmodan" },
-			"56":{ "id": "", "name": "Nova" }
+			"72":{ "amount": -1.2, "name": "The Lost Vikings" },
+			"58":{ "amount": -1, "name": "Probius" },
+			"50":{ "amount": -1, "name": "Medivh"  },
+			"10":{ "amount": -1, "name": "Azmodan"  },
+			"56":{ "amount": -0.8, "name": "Nova" }
 		},
 		"goodAgainst": {
-			"54":{ "id": "", "name": "Murky" }
+			"54":{ "amount": 0.5, "name": "Murky" }
 		},
 		"badAgainst": {
-			"50":{ "id": "", "name": "Medivh" },
-			"56":{ "id": "", "name": "Nova" },
-			"87":{ "id": "", "name": "Zeratul" },
-			"26":{ "id": "", "name": "Genji" },
-			"37":{ "id": "", "name": "Kel'thuzad" }
+			"50":{ "amount": -1.2, "name": "Medivh" },
+			"56":{ "amount": -1.1, "name": "Nova"},
+			"87":{ "amount": -1, "name": "Zeratul" },
+			"26":{ "amount": -0.9, "name": "Genji"},
+			"37":{ "amount": -0.5, "name": "Kel'Thuzad"}
 		},
 		"goodIn": {
-			"1":{ "id": "", "name": "Warhead Junction" },
-			"2":{ "id": "", "name": "Dragon Shire" },
-			"3":{ "id": "", "name": "Cursed Hollow" },
-			"4":{ "id": "", "name": "Towers of Doom" }
+			"1":{ "amount": 1, "name": "Warhead Junction" },
+			"2":{ "amount": 0.9, "name": "Towers of Doom" },
+			"3":{ "amount": 0.8, "name": "Dragon Shire" },
+			"4":{ "amount": 0.7, "name": "Cursed Hollow" }
 		},
 		"badIn": {
-			"1":{ "id": "", "name": "Hanamura Temple" },
-			"2":{ "id": "", "name": "Braxis Holdout" },
-			"3":{ "id": "", "name": "Battlefield of Eternity" },
-			"4":{ "id": "", "name": "Garden of Terror" }
+			"1":{ "amount":-1, "name": "Hanamura Temple" },
+			"2":{ "amount":-0.9, "name": "Battlefield of Eternity" },
+			"3":{ "amount":-0.8, "name": "Braxis Holdout" },
+			"4":{ "amount":-0.7, "name": "Garden of Terror" }
 		}
 	},
 	{
 		"name": "Alarak",
 		"id": "2",
-		"role": "melee assassin",
-		"canSoakWell": true,
-		"canBurst": false,
+		"role": "melee assassin, dps",
+		"canSoakWell": false,
+		"canBurst": true,
 		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
 		"goodSinergy": {
-
+			"77": { "amount": 1.8, "name": "Tyrande" },
+			"6": { "amount": 1.7, "name": "Anubarak" },
+			"8": { "amount": 1.5, "name": "Arthas" },
+			"18": { "amount": 1, "name": "Deckard" },
+			"32": { "amount": 1, "name": "Imperius" },
+			"48": { "amount": 0.8, "name": "Malfurion" }
 		},
 		"badSinergy": {
-
+			"20":{ "amount": -1, "name": "Diablo" },
+			"42":{ "amount": -0.9, "name": "Li Ming" },
+			"30":{ "amount": -0.8, "name": "Hogger"  },
+			"84":{ "amount": -0.8, "name": "Yrel" },
+			"35":{ "amount": -0.7, "name": "Junkrat"},
+			"46":{ "amount": -0.5, "name": "Maiev" },
+			"38":{ "amount": -0.3, "name": "Kerrigan" }
 		},
 		"goodAgainst": {
-
+			"65":{ "amount": 1.5, "name": "Sgt. Hammer" },
+			"70":{ "amount": 1.3, "name": "Tassadar" },
+			"37":{ "amount": 1, "name": "Kel'Thuzad" },
+			"52":{ "amount": 0.8, "name": "Mephisto" },
+			"28":{ "amount": 0.8, "name": "Guldan" },
+			"16":{ "amount": 0.6, "name": "Chromie" }
 		},
 		"badAgainst": {
-
+			"50":{ "amount": -1.5, "name": "Tracer" },
+			"54":{ "amount": -1.2, "name": "Murky" },
+			"26":{ "amount": -1, "name": "Genji" },
+			"87":{ "amount": -1, "name": "Zeratul" },
+			"17":{ "amount": -1, "name": "Dva" },
+			"6":{ "amount": -1, "name": "Anubarak" },
+			"64":{ "amount": -0.9, "name": "Samuro"},
+			"4":{ "amount": -0.5, "name": "Ana" }
 		},
 		"goodIn": {
 
