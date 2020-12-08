@@ -52,7 +52,7 @@
 		"role": "melee assassin",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -80,7 +80,7 @@
 		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -108,7 +108,7 @@
 		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -136,7 +136,7 @@
 		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -164,7 +164,7 @@
 		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -192,7 +192,7 @@
 		"role": "bruiser",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -220,7 +220,7 @@
 		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -248,7 +248,7 @@
 		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -276,7 +276,7 @@
 		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -304,7 +304,7 @@
 		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -360,7 +360,7 @@
 		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -388,7 +388,7 @@
 		"role": "bruiser",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -416,7 +416,7 @@
 		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -444,7 +444,7 @@
 		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -472,7 +472,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -500,7 +500,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -528,7 +528,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -556,7 +556,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -584,7 +584,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -640,7 +640,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -668,7 +668,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -696,7 +696,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -724,7 +724,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -752,7 +752,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -780,7 +780,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -808,7 +808,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -836,7 +836,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -864,7 +864,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -892,7 +892,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -920,7 +920,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -948,7 +948,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -976,7 +976,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1004,7 +1004,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1032,7 +1032,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1060,7 +1060,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1088,7 +1088,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1116,7 +1116,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1144,7 +1144,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1172,7 +1172,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1200,7 +1200,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1228,7 +1228,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1256,7 +1256,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1284,7 +1284,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1312,7 +1312,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1340,7 +1340,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1368,7 +1368,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1396,7 +1396,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1424,7 +1424,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1452,7 +1452,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1480,7 +1480,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1508,7 +1508,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1536,7 +1536,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1564,7 +1564,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1592,7 +1592,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1620,7 +1620,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1648,7 +1648,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1676,7 +1676,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1704,7 +1704,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1732,7 +1732,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1760,7 +1760,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1788,7 +1788,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1816,7 +1816,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1844,7 +1844,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1872,7 +1872,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1900,7 +1900,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1928,7 +1928,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1956,7 +1956,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -1984,7 +1984,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2012,7 +2012,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2040,7 +2040,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2068,7 +2068,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2096,7 +2096,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2124,7 +2124,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2152,7 +2152,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2180,7 +2180,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2208,7 +2208,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2236,7 +2236,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2264,7 +2264,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2292,7 +2292,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2320,7 +2320,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2348,7 +2348,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2376,7 +2376,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2404,7 +2404,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2432,7 +2432,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
@@ -2460,7 +2460,7 @@
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
-		"does%Damage": false,
+		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
