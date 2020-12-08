@@ -16,411 +16,259 @@
 			"6": { "amount": 1.3, "name": "Valeera" },
 			"7": { "amount": 1, "name": "Sonya" }
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+			"2":{ "id": "", "name": "The Lost Vikings" },
+			"3":{ "id": "", "name": "Probius" },
+			"4":{ "id": "", "name": "Medivh" },
+			"5":{ "id": "", "name": "Azmodan" },
+			"6":{ "id": "", "name": "Nova" }
+		},
+		"goodAgainst": {
+			"1":{ "id": "", "name": "Murky" }
+		},
+		"badAgainst": {
+			"1":{ "id": "", "name": "Medivh" },
+			"2":{ "id": "", "name": "Nova" },
+			"3":{ "id": "", "name": "Zeratul" },
+			"4":{ "id": "", "name": "Genji" },
+			"5":{ "id": "", "name": "Kel'thuzad" }
+		},
+		"goodIn": {
+			"1":{ "id": "", "name": "Warhead Junction" },
+			"2":{ "id": "", "name": "Dragon Shire" },
+			"3":{ "id": "", "name": "Cursed Hollow" },
+			"4":{ "id": "", "name": "Towers of Doom" }
+		},
+		"badIn": {
+			"1":{ "id": "", "name": "Hanamura Temple" },
+			"2":{ "id": "", "name": "Braxis Holdout" },
+			"3":{ "id": "", "name": "Battlefield of Eternity" },
+			"4":{ "id": "", "name": "Garden of Terror" }
+		}
 	},
 	{
 		"name": "Alarak",
 		"id": "2",
 		"role": "melee assassin",
-		"canSoakWell": false,
-		"canBurst": true,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Malfurion" },
-			"3": { "amount": 1.8, "name": "Uther" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Alexstrasza",
 		"id": "3",
 		"role": "healer",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Malfurion" },
-			"3": { "amount": 1.8, "name": "Uther" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Ana",
 		"id": "4",
 		"role": "healer",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Liming" },
-			"3": { "amount": 1.8, "name": "Kerrigan" },
-			"4": { "amount": 1.5, "name": "Alarak" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Hogger" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Anduin",
 		"id": "5",
 		"role": "healer",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Johanna" },
-			"3": { "amount": 1.8, "name": "Butcher" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Sonya" },
-			"6": { "amount": 1.3, "name": "Chen" },
-			"7": { "amount": 1, "name": "DVA" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Anubarak",
 		"id": "6",
 		"role": "tank",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Jaina" },
-			"3": { "amount": 1.8, "name": "Kerrigan" },
-			"4": { "amount": 1.5, "name": "Alarak" },
-			"5": { "amount": 1.4, "name": "Greymane" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Artanis",
 		"id": "7",
 		"role": "bruiser",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Stitches" },
-			"3": { "amount": 1.8, "name": "Reghar" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Arthas",
 		"id": "8",
 		"role": "tank",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Malfurion" },
-			"3": { "amount": 1.8, "name": "Uther" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Auriel",
 		"id": "9",
 		"role": "healer",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Chogall" },
-			"3": { "amount": 1.8, "name": "Valla" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Azmodan",
@@ -428,46 +276,27 @@
 		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Ana" },
-			"3": { "amount": 1.8, "name": "Uther" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Blaze",
@@ -475,232 +304,2182 @@
 		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Malfurion" },
-			"3": { "amount": 1.8, "name": "Uther" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "Jaina" },
-			"6": { "amount": 1.3, "name": "Butcher" },
-			"7": { "amount": 1, "name": "Thrall" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	},
 	{
 		"name": "Brightwing",
 		"id": "12",
 		"role": "healer",
-		"canSoakWell": false,
-		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": false,
-		"goodSinergy": {
-			"2": { "amount": 2, "name": "Falstad" },
-			"3": { "amount": 1.8, "name": "Dehaka" },
-			"4": { "amount": 1.5, "name": "Kerrigan" },
-			"5": { "amount": 1.4, "name": "DVA" },
-			"6": { "amount": 1.3, "name": "Illidan" },
-			"7": { "amount": 1, "name": "Thrall" }
-		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
-	},
-	{
-		"name": "Diablo",
-		"id": "21",
-		"role": "tank",
-		"canSoakWell": false,
-		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": false,
-		"canRepairStructures": false,
-		"goodSinergy": {
-			"2": { "amount": 2, "name": "Tyrande" },
-			"3": { "amount": 1.8, "name": "Orphea" },
-			"4": { "amount": 1.5, "name": "Jaina" },
-			"5": { "amount": 1.4, "name": "Samuro" },
-			"6": { "amount": 1.3, "name": "Alarak" },
-			"7": { "amount": 1, "name": "Imperius" }
-		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
-	},
-	{
-		"name": "E.T.C",
-		"id": "22",
-		"role": "tank",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
 		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Jaina" },
-			"3": { "amount": 1.8, "name": "Orphea" },
-			"4": { "amount": 1.5, "name": "Kelthuzad" },
-			"5": { "amount": 1.4, "name": "Maiev" },
-			"6": { "amount": 1.3, "name": "Fenix" },
-			"7": { "amount": 1, "name": "Tychus" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
-	},{
-		"name": "Falstad",
-		"id": "23",
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Cassia",
+		"id": "13",
 		"role": "ranged assassin",
 		"canSoakWell": true,
-		"canBurst": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Chen",
+		"id": "14",
+		"role": "bruiser",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Chogall",
+		"id": "15",
+		"role": "tank",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Chromie",
+		"id": "16",
+		"role": "ranged assassin",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Dva",
+		"id": "17",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Deckard",
+		"id": "18",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Dehaka",
+		"id": "19",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Diablo",
+		"id": "20",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Etc",
+		"id": "21",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Falstad",
+		"id": "22",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
 		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
-		"canRepairStructures": false,
+		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Illidan" },
-			"3": { "amount": 2, "name": "Tracer" },
-			"4": { "amount": 2, "name": "Zeratul" },
-			"5": { "amount": 1, "name": "Samuro" },
-			"6": { "amount": 1, "name": "Valeera" },
-			"7": { "amount": 1, "name": "Sonya" }
+
 		},
-		"badSinergy": [
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
-			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
-		]
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Fenix",
+		"id": "23",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Garrosh",
+		"id": "24",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Gazlowe",
+		"id": "25",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Genji",
+		"id": "26",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Greymane",
+		"id": "27",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Guldan",
+		"id": "28",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Hanzo",
+		"id": "29",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Hogger",
+		"id": "30",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Illidan",
+		"id": "31",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Imperius",
+		"id": "32",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "jaina",
+		"id": "33",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Johanna",
+		"id": "34",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Junkrat",
+		"id": "35",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Kaelthas",
+		"id": "36",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Kelthuzad",
+		"id": "37",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Kerrigan",
+		"id": "38",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Kharazim",
+		"id": "39",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Leoric",
+		"id": "40",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Li Li",
+		"id": "41",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Li ming",
+		"id": "42",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Lt Morales",
+		"id": "43",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Lunara",
+		"id": "44",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Lucio",
+		"id": "45",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Maiev",
+		"id": "46",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Malganis",
+		"id": "47",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Malfurion",
+		"id": "48",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Malthael",
+		"id": "49",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Medivh",
+		"id": "50",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Mei",
+		"id": "51",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Mephisto",
+		"id": "52",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Muradin",
+		"id": "53",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Murky",
+		"id": "54",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Nazeebo",
+		"id": "55",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Nova",
+		"id": "56",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Orphea",
+		"id": "57",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Probius",
+		"id": "58",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Qhira",
+		"id": "59",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Ragnaros",
+		"id": "60",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Raynor",
+		"id": "61",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Reghar",
+		"id": "62",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Rexxar",
+		"id": "63",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Samuro",
+		"id": "64",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Sgt. Hammer",
+		"id": "65",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Sonya",
+		"id": "66",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Stitches",
+		"id": "67",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Stukov",
+		"id": "68",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Sylvanas",
+		"id": "69",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Tassadar",
+		"id": "70",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "The Butcher",
+		"id": "71",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "The Lost Vikings",
+		"id": "72",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Thrall",
+		"id": "73",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Tracer",
+		"id": "74",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Tychus",
+		"id": "75",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Tyrael",
+		"id": "76",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Tyrande",
+		"id": "77",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Uther",
+		"id": "78",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Valeera",
+		"id": "79",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Valla",
+		"id": "80",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Varian",
+		"id": "81",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Whitemane",
+		"id": "82",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Xul",
+		"id": "83",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Yrel",
+		"id": "84",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Zagara",
+		"id": "85",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Zarya",
+		"id": "86",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Zeratul",
+		"id": "87",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Zuljin",
+		"id": "88",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"does%Damage": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
 	}
 ]
