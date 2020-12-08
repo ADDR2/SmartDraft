@@ -47,37 +47,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
-		"canSoakWell": true,
-		"canBurst": false,
-		"does%Damage": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
-		"goodSinergy": {
-
-		},
-		"badSinergy": {
-
-		},
-		"goodAgainst": {
-
-		},
-		"badAgainst": {
-
-		},
-		"goodIn": {
-
-		},
-		"badIn": {
-
-		}
-	},
-	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Alarak",
+		"id": "2",
+		"role": "melee assassin",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -103,9 +75,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Alexstrasza",
+		"id": "3",
+		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -131,9 +103,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Ana",
+		"id": "4",
+		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -159,9 +131,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Anduin",
+		"id": "5",
+		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -187,9 +159,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Anubarak",
+		"id": "6",
+		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -215,9 +187,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Artanis",
+		"id": "7",
+		"role": "bruiser",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -243,9 +215,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Arthas",
+		"id": "8",
+		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -271,9 +243,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Auriel",
+		"id": "9",
+		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -299,9 +271,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Azmodan",
+		"id": "10",
+		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -327,9 +299,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Blaze",
+		"id": "11",
+		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -355,9 +327,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Brightwing",
+		"id": "12",
+		"role": "healer",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -383,9 +355,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Cassia",
+		"id": "13",
+		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -411,9 +383,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Chen",
+		"id": "14",
+		"role": "bruiser",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -439,9 +411,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Chogall",
+		"id": "15",
+		"role": "tank",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -467,9 +439,9 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
+		"name": "Chromie",
+		"id": "16",
+		"role": "ranged assassin",
 		"canSoakWell": true,
 		"canBurst": false,
 		"does%Damage": false,
@@ -495,8 +467,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Dva",
+		"id": "17",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -523,8 +495,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Deckard",
+		"id": "18",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -551,8 +523,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Dehaka",
+		"id": "19",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -579,8 +551,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Diablo",
+		"id": "20",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -607,8 +579,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Etc",
+		"id": "21",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -635,8 +607,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Falstad",
+		"id": "22",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -663,8 +635,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Fenix",
+		"id": "23",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -691,8 +663,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Garrosh",
+		"id": "24",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -719,8 +691,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Gazlowe",
+		"id": "25",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -747,8 +719,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Genji",
+		"id": "26",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -775,8 +747,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Greymane",
+		"id": "27",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -803,8 +775,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Guldan",
+		"id": "27",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -831,8 +803,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Hanzo",
+		"id": "27",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -859,8 +831,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Hogger",
+		"id": "28",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -887,8 +859,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Illidan",
+		"id": "29",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -915,8 +887,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Imperius",
+		"id": "30",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -943,8 +915,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "jaina",
+		"id": "31",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -971,8 +943,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Johanna",
+		"id": "32",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -999,8 +971,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Junkrat",
+		"id": "33",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1027,8 +999,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Kaelthas",
+		"id": "34",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1055,8 +1027,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Kelthuzad",
+		"id": "35",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1083,8 +1055,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Kerrigan",
+		"id": "36",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1111,8 +1083,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Kharazim",
+		"id": "37",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1139,8 +1111,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Leoric",
+		"id": "38",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1167,8 +1139,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Li Li",
+		"id": "39",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1195,8 +1167,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Li ming",
+		"id": "40",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1223,8 +1195,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Lt Morales",
+		"id": "41",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1251,8 +1223,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Lunara",
+		"id": "42",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1279,8 +1251,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Lucio",
+		"id": "43",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1307,8 +1279,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Maiev",
+		"id": "45",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1335,8 +1307,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Malganis",
+		"id": "46",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1363,8 +1335,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Malfurion",
+		"id": "47",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1391,8 +1363,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Malthael",
+		"id": "48",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1419,8 +1391,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Medivh",
+		"id": "49",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1447,8 +1419,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Mei",
+		"id": "50",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1475,8 +1447,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Mephisto",
+		"id": "51",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1503,8 +1475,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Muradin",
+		"id": "52",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1531,8 +1503,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Murky",
+		"id": "53",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1559,8 +1531,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Nazeebo",
+		"id": "54",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1587,8 +1559,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Nova",
+		"id": "55",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1615,8 +1587,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Orphea",
+		"id": "56",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1643,8 +1615,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Probius",
+		"id": "57",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1671,8 +1643,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Qhira",
+		"id": "58",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1699,8 +1671,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Ragnaros",
+		"id": "59",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1727,8 +1699,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Raynor",
+		"id": "60",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1755,8 +1727,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Reghar",
+		"id": "61",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1783,8 +1755,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Rexxar",
+		"id": "62",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1811,8 +1783,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Samuro",
+		"id": "63",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1839,8 +1811,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Sgt. Hammer",
+		"id": "64",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1867,8 +1839,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Sonya",
+		"id": "65",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1895,8 +1867,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Stitches",
+		"id": "66",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1923,8 +1895,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Stukov",
+		"id": "67",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1951,8 +1923,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Sylvanas",
+		"id": "68",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -1979,8 +1951,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Tassadar",
+		"id": "69",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2007,8 +1979,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "The Butcher",
+		"id": "70",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2035,8 +2007,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "The Lost Vikings",
+		"id": "71",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2063,8 +2035,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Thrall",
+		"id": "72",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2091,8 +2063,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Tracer",
+		"id": "73",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2119,8 +2091,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Tychus",
+		"id": "74",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2147,8 +2119,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Tyrael",
+		"id": "75",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2175,8 +2147,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Tyrande",
+		"id": "76",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2203,8 +2175,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Uther",
+		"id": "77",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2231,8 +2203,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Valeera",
+		"id": "78",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2259,8 +2231,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Valla",
+		"id": "79",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2287,8 +2259,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Varian",
+		"id": "80",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2315,8 +2287,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Whitemane",
+		"id": "81",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2343,8 +2315,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Xul",
+		"id": "82",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2371,8 +2343,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Yrel",
+		"id": "83",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2399,8 +2371,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Zagara",
+		"id": "84",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2427,8 +2399,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Zarya",
+		"id": "85",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2455,8 +2427,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Zeratul",
+		"id": "87",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
@@ -2483,35 +2455,8 @@
 		}
 	},
 	{
-		"name": "Abathur",
-		"id": "1",
-		"role": "support",
-		"canSoakWell": true,
-		"canBurst": false,
-		"does%Damage": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
-		"goodSinergy": {
-
-		},
-		"badSinergy": {
-
-		},
-		"goodAgainst": {
-
-		},
-		"badAgainst": {
-
-		},
-		"goodIn": {
-
-		},
-		"badIn": {
-
-		}
-	},{
-		"name": "Abathur",
-		"id": "1",
+		"name": "Zuljin",
+		"id": "87",
 		"role": "support",
 		"canSoakWell": true,
 		"canBurst": false,
