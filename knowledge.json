@@ -9,29 +9,29 @@
 		"hasGlobalMobility": true,
 		"canRepairStructures": true,
 		"goodSinergy": {
-			"2": { "amount": 2, "name": "Illidan" },
-			"3": { "amount": 1.8, "name": "Tracer" },
-			"4": { "amount": 1.5, "name": "Zeratul" },
-			"5": { "amount": 1.4, "name": "Samuro" },
-			"6": { "amount": 1.3, "name": "Valeera" },
-			"7": { "amount": 1, "name": "Sonya" }
+			"31": { "amount": 2, "name": "Illidan" },
+			"74": { "amount": 1.8, "name": "Tracer" },
+			"87": { "amount": 1.5, "name": "Zeratul" },
+			"64": { "amount": 1.4, "name": "Samuro" },
+			"79": { "amount": 1.3, "name": "Valeera" },
+			"66": { "amount": 1, "name": "Sonya" }
 		},
 		"badSinergy": {
-			"2":{ "id": "", "name": "The Lost Vikings" },
-			"3":{ "id": "", "name": "Probius" },
-			"4":{ "id": "", "name": "Medivh" },
-			"5":{ "id": "", "name": "Azmodan" },
-			"6":{ "id": "", "name": "Nova" }
+			"72":{ "id": "", "name": "The Lost Vikings" },
+			"58":{ "id": "", "name": "Probius" },
+			"50":{ "id": "", "name": "Medivh" },
+			"10":{ "id": "", "name": "Azmodan" },
+			"56":{ "id": "", "name": "Nova" }
 		},
 		"goodAgainst": {
-			"1":{ "id": "", "name": "Murky" }
+			"54":{ "id": "", "name": "Murky" }
 		},
 		"badAgainst": {
-			"1":{ "id": "", "name": "Medivh" },
-			"2":{ "id": "", "name": "Nova" },
-			"3":{ "id": "", "name": "Zeratul" },
-			"4":{ "id": "", "name": "Genji" },
-			"5":{ "id": "", "name": "Kel'thuzad" }
+			"50":{ "id": "", "name": "Medivh" },
+			"56":{ "id": "", "name": "Nova" },
+			"87":{ "id": "", "name": "Zeratul" },
+			"26":{ "id": "", "name": "Genji" },
+			"37":{ "id": "", "name": "Kel'thuzad" }
 		},
 		"goodIn": {
 			"1":{ "id": "", "name": "Warhead Junction" },
@@ -1027,7 +1027,7 @@
 		}
 	},
 	{
-		"name": "Kelthuzad",
+		"name": "Kel'thuzad",
 		"id": "37",
 		"role": "support",
 		"canSoakWell": true,
