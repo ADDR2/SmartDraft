@@ -83,8 +83,8 @@
 		"badAgainst": {
 			"50":{ "amount": -1.5, "name": "Tracer" },
 			"54":{ "amount": -1.2, "name": "Murky" },
-			"26":{ "amount": -1, "name": "Genji" },
-			"87":{ "amount": -1, "name": "Zeratul" },
+			"26":{ "amount": -1.1, "name": "Genji" },
+			"87":{ "amount": -1.1, "name": "Zeratul" },
 			"17":{ "amount": -1, "name": "Dva" },
 			"6":{ "amount": -1, "name": "Anubarak" },
 			"64":{ "amount": -0.9, "name": "Samuro"},
@@ -101,22 +101,40 @@
 		"name": "Alexstrasza",
 		"id": "3",
 		"role": "healer",
-		"canSoakWell": true,
+		"canSoakWell": false,
 		"canBurst": false,
 		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
 		"goodSinergy": {
-
+			"28": { "amount": 1.5, "name": "Guldan" },
+			"88": { "amount": 1.5, "name": "Zuljin" },
+			"65": { "amount": 1.2, "name": "Sgt. Hammer" },
+			"14": { "amount": 1, "name": "Chen" },
+			"11": { "amount": 0.8, "name": "Blaze" },
+			"13": { "amount": 0.5, "name": "Cassia" },
+			"46": { "amount": 0.4, "name": "Maiev" }
 		},
 		"badSinergy": {
-
+			"50":{ "amount": -1.5, "name": "Tracer" },
+			"6":{ "amount": -1.4, "name": "Genji" },
+			"31":{ "amount": -1, "name": "Illidan" },
+			"23":{ "amount": -0.9, "name": "Fenix" }
 		},
 		"goodAgainst": {
-
+			"8":{ "amount": 0.5, "name": "Arthas" },
+			"10":{ "amount": 0.2, "name": "Azmodan" }
 		},
 		"badAgainst": {
-
+			"36":{ "amount": -2, "name": "Kaelthas" },
+			"51":{ "amount": -1.8, "name": "Mei" },
+			"16":{ "amount": -1.6, "name": "Chromie" },
+			"42":{ "amount": -1.4, "name": "Li Ming" },
+			"18":{ "amount": -1.2, "name": "Deckard" },
+			"4":{ "amount": -1, "name": "Ana" },
+			"37":{ "amount": -0.8, "name": "Kel'Thuzad" },
+			"87":{ "amount": -0.6, "name": "Zeratul" },
+			"10":{ "amount": -0.4, "name": "Azmodan" }
 		},
 		"goodIn": {
 
