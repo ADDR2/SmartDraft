@@ -17,33 +17,33 @@
 			"7": { "amount": 1, "name": "Sonya" }
 		},
 		"badSinergy": {
-			{ "id": "", "name": "The Lost Vikings" },
-			{ "id": "", "name": "Probius" },
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Azmodan" },
-			{ "id": "", "name": "Nova" }
+			"2":{ "id": "", "name": "The Lost Vikings" },
+			"3":{ "id": "", "name": "Probius" },
+			"4":{ "id": "", "name": "Medivh" },
+			"5":{ "id": "", "name": "Azmodan" },
+			"6":{ "id": "", "name": "Nova" }
 		},
 		"goodAgainst": {
-			{ "id": "", "name": "Murky" }
+			"1":{ "id": "", "name": "Murky" }
 		},
 		"badAgainst": {
-			{ "id": "", "name": "Medivh" },
-			{ "id": "", "name": "Nova" },
-			{ "id": "", "name": "Zeratul" },
-			{ "id": "", "name": "Genji" },
-			{ "id": "", "name": "Kel'thuzad" }
+			"1":{ "id": "", "name": "Medivh" },
+			"2":{ "id": "", "name": "Nova" },
+			"3":{ "id": "", "name": "Zeratul" },
+			"4":{ "id": "", "name": "Genji" },
+			"5":{ "id": "", "name": "Kel'thuzad" }
 		},
 		"goodIn": {
-			{ "id": "", "name": "Warhead Junction" },
-			{ "id": "", "name": "Dragon Shire" },
-			{ "id": "", "name": "Cursed Hollow" },
-			{ "id": "", "name": "Towers of Doom" }
+			"1":{ "id": "", "name": "Warhead Junction" },
+			"2":{ "id": "", "name": "Dragon Shire" },
+			"3":{ "id": "", "name": "Cursed Hollow" },
+			"4":{ "id": "", "name": "Towers of Doom" }
 		},
 		"badIn": {
-			{ "id": "", "name": "Hanamura Temple" },
-			{ "id": "", "name": "Braxis Holdout" },
-			{ "id": "", "name": "Battlefield of Eternity" },
-			{ "id": "", "name": "Garden of Terror" }
+			"1":{ "id": "", "name": "Hanamura Temple" },
+			"2":{ "id": "", "name": "Braxis Holdout" },
+			"3":{ "id": "", "name": "Battlefield of Eternity" },
+			"4":{ "id": "", "name": "Garden of Terror" }
 		}
 	},
 	{
