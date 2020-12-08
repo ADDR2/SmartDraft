@@ -1,49 +1,706 @@
 [
-    {
-        "name": "Abathur",
-        "id": "1",
-        "role": "support",
-        "canSoakWell": true,
-        "canBurst": false,
-        "doesPercentageDmg": false,
-        "hasGlobalMobility": true,
-        "canRepairStructures": true,
-        "goodSinergy": {
-            "2": { "amount": 2, "name": "Illidan" },
-            "3": { "amount": 2, "name": "Tracer" },
-            "4": { "amount": 2, "name": "Zeratul" },
-            "5": { "amount": 1, "name": "Samuro" },
-            "6": { "amount": 1, "name": "Valeera" },
-            "7": { "amount": 1, "name": "Sonya" }
-        },
-        "badSinergy": [
-            { "id": "", "name": "The Lost Vikings" },
-            { "id": "", "name": "Probius" },
-            { "id": "", "name": "Medivh" },
-            { "id": "", "name": "Azmodan" },
-            { "id": "", "name": "Nova" }
-        ],
-        "goodAgainst": [
-            { "id": "", "name": "Murky" }
-        ],
-        "badAgainst": [
-            { "id": "", "name": "Medivh" },
-            { "id": "", "name": "Nova" },
-            { "id": "", "name": "Zeratul" },
-            { "id": "", "name": "Genji" },
-            { "id": "", "name": "Kel'thuzad" }
-        ],
-        "goodIn": [
-            { "id": "", "name": "Warhead Junction" },
-            { "id": "", "name": "Dragon Shire" },
-            { "id": "", "name": "Cursed Hollow" },
-            { "id": "", "name": "Towers of Doom" }
-        ],
-        "badIn": [
-            { "id": "", "name": "Hanamura Temple" },
-            { "id": "", "name": "Braxis Holdout" },
-            { "id": "", "name": "Battlefield of Eternity" },
-            { "id": "", "name": "Garden of Terror" }
-        ]
-    }
+	{
+		"name": "Abathur",
+		"id": "1",
+		"role": "support",
+		"canSoakWell": true,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Illidan" },
+			"3": { "amount": 1.8, "name": "Tracer" },
+			"4": { "amount": 1.5, "name": "Zeratul" },
+			"5": { "amount": 1.4, "name": "Samuro" },
+			"6": { "amount": 1.3, "name": "Valeera" },
+			"7": { "amount": 1, "name": "Sonya" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Murky" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Alarak",
+		"id": "2",
+		"role": "melee assassin",
+		"canSoakWell": false,
+		"canBurst": true,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Malfurion" },
+			"3": { "amount": 1.8, "name": "Uther" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Alexstrasza",
+		"id": "3",
+		"role": "healer",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Malfurion" },
+			"3": { "amount": 1.8, "name": "Uther" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Ana",
+		"id": "4",
+		"role": "healer",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Liming" },
+			"3": { "amount": 1.8, "name": "Kerrigan" },
+			"4": { "amount": 1.5, "name": "Alarak" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Hogger" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Anduin",
+		"id": "5",
+		"role": "healer",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Johanna" },
+			"3": { "amount": 1.8, "name": "Butcher" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Sonya" },
+			"6": { "amount": 1.3, "name": "Chen" },
+			"7": { "amount": 1, "name": "DVA" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Anubarak",
+		"id": "6",
+		"role": "tank",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Jaina" },
+			"3": { "amount": 1.8, "name": "Kerrigan" },
+			"4": { "amount": 1.5, "name": "Alarak" },
+			"5": { "amount": 1.4, "name": "Greymane" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Artanis",
+		"id": "7",
+		"role": "bruiser",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Stitches" },
+			"3": { "amount": 1.8, "name": "Reghar" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Arthas",
+		"id": "8",
+		"role": "tank",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Malfurion" },
+			"3": { "amount": 1.8, "name": "Uther" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Auriel",
+		"id": "9",
+		"role": "healer",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Chogall" },
+			"3": { "amount": 1.8, "name": "Valla" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Azmodan",
+		"id": "10",
+		"role": "ranged assassin",
+		"canSoakWell": true,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Ana" },
+			"3": { "amount": 1.8, "name": "Uther" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Blaze",
+		"id": "11",
+		"role": "tank",
+		"canSoakWell": true,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Malfurion" },
+			"3": { "amount": 1.8, "name": "Uther" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "Jaina" },
+			"6": { "amount": 1.3, "name": "Butcher" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Brightwing",
+		"id": "12",
+		"role": "healer",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Falstad" },
+			"3": { "amount": 1.8, "name": "Dehaka" },
+			"4": { "amount": 1.5, "name": "Kerrigan" },
+			"5": { "amount": 1.4, "name": "DVA" },
+			"6": { "amount": 1.3, "name": "Illidan" },
+			"7": { "amount": 1, "name": "Thrall" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Butcher" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "Diablo",
+		"id": "21",
+		"role": "tank",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Tyrande" },
+			"3": { "amount": 1.8, "name": "Orphea" },
+			"4": { "amount": 1.5, "name": "Jaina" },
+			"5": { "amount": 1.4, "name": "Samuro" },
+			"6": { "amount": 1.3, "name": "Alarak" },
+			"7": { "amount": 1, "name": "Imperius" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Murky" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},
+	{
+		"name": "E.T.C",
+		"id": "22",
+		"role": "tank",
+		"canSoakWell": false,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Jaina" },
+			"3": { "amount": 1.8, "name": "Orphea" },
+			"4": { "amount": 1.5, "name": "Kelthuzad" },
+			"5": { "amount": 1.4, "name": "Maiev" },
+			"6": { "amount": 1.3, "name": "Fenix" },
+			"7": { "amount": 1, "name": "Tychus" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Murky" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	},{
+		"name": "Falstad",
+		"id": "23",
+		"role": "ranged assassin",
+		"canSoakWell": true,
+		"canBurst": true,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": false,
+		"goodSinergy": {
+			"2": { "amount": 2, "name": "Illidan" },
+			"3": { "amount": 2, "name": "Tracer" },
+			"4": { "amount": 2, "name": "Zeratul" },
+			"5": { "amount": 1, "name": "Samuro" },
+			"6": { "amount": 1, "name": "Valeera" },
+			"7": { "amount": 1, "name": "Sonya" }
+		},
+		"badSinergy": [
+			{ "id": "", "name": "The Lost Vikings" },
+			{ "id": "", "name": "Probius" },
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Azmodan" },
+			{ "id": "", "name": "Nova" }
+		],
+		"goodAgainst": [
+			{ "id": "", "name": "Murky" }
+		],
+		"badAgainst": [
+			{ "id": "", "name": "Medivh" },
+			{ "id": "", "name": "Nova" },
+			{ "id": "", "name": "Zeratul" },
+			{ "id": "", "name": "Genji" },
+			{ "id": "", "name": "Kel'thuzad" }
+		],
+		"goodIn": [
+			{ "id": "", "name": "Warhead Junction" },
+			{ "id": "", "name": "Dragon Shire" },
+			{ "id": "", "name": "Cursed Hollow" },
+			{ "id": "", "name": "Towers of Doom" }
+		],
+		"badIn": [
+			{ "id": "", "name": "Hanamura Temple" },
+			{ "id": "", "name": "Braxis Holdout" },
+			{ "id": "", "name": "Battlefield of Eternity" },
+			{ "id": "", "name": "Garden of Terror" }
+		]
+	}
 ]
