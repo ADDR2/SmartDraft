@@ -16,35 +16,35 @@
 			"6": { "amount": 1.3, "name": "Valeera" },
 			"7": { "amount": 1, "name": "Sonya" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Alarak",
@@ -63,35 +63,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Alexstrasza",
@@ -110,35 +110,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Ana",
@@ -157,35 +157,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Hogger" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Anduin",
@@ -204,35 +204,35 @@
 			"6": { "amount": 1.3, "name": "Chen" },
 			"7": { "amount": 1, "name": "DVA" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Anubarak",
@@ -251,35 +251,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Artanis",
@@ -298,35 +298,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Arthas",
@@ -345,35 +345,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Auriel",
@@ -392,35 +392,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Azmodan",
@@ -439,35 +439,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Blaze",
@@ -486,35 +486,35 @@
 			"6": { "amount": 1.3, "name": "Butcher" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Brightwing",
@@ -533,35 +533,35 @@
 			"6": { "amount": 1.3, "name": "Illidan" },
 			"7": { "amount": 1, "name": "Thrall" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Butcher" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "Diablo",
@@ -580,35 +580,35 @@
 			"6": { "amount": 1.3, "name": "Alarak" },
 			"7": { "amount": 1, "name": "Imperius" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},
 	{
 		"name": "E.T.C",
@@ -627,35 +627,35 @@
 			"6": { "amount": 1.3, "name": "Fenix" },
 			"7": { "amount": 1, "name": "Tychus" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	},{
 		"name": "Falstad",
 		"id": "23",
@@ -673,34 +673,34 @@
 			"6": { "amount": 1, "name": "Valeera" },
 			"7": { "amount": 1, "name": "Sonya" }
 		},
-		"badSinergy": [
+		"badSinergy": {
 			{ "id": "", "name": "The Lost Vikings" },
 			{ "id": "", "name": "Probius" },
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Azmodan" },
 			{ "id": "", "name": "Nova" }
-		],
-		"goodAgainst": [
+		},
+		"goodAgainst": {
 			{ "id": "", "name": "Murky" }
-		],
-		"badAgainst": [
+		},
+		"badAgainst": {
 			{ "id": "", "name": "Medivh" },
 			{ "id": "", "name": "Nova" },
 			{ "id": "", "name": "Zeratul" },
 			{ "id": "", "name": "Genji" },
 			{ "id": "", "name": "Kel'thuzad" }
-		],
-		"goodIn": [
+		},
+		"goodIn": {
 			{ "id": "", "name": "Warhead Junction" },
 			{ "id": "", "name": "Dragon Shire" },
 			{ "id": "", "name": "Cursed Hollow" },
 			{ "id": "", "name": "Towers of Doom" }
-		],
-		"badIn": [
+		},
+		"badIn": {
 			{ "id": "", "name": "Hanamura Temple" },
 			{ "id": "", "name": "Braxis Holdout" },
 			{ "id": "", "name": "Battlefield of Eternity" },
 			{ "id": "", "name": "Garden of Terror" }
-		]
+		}
 	}
 ]
