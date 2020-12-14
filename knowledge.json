@@ -246,22 +246,48 @@
 		"name": "Anubarak",
 		"id": "6",
 		"role": "tank",
-		"canSoakWell": true,
+		"canSoakWell": false,
 		"canBurst": false,
 		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
 		"goodSinergy": {
-
+			"32": { "amount": 1.2, "name": "Imperius" },
+			"48": { "amount": 1, "name": "Malfurion" },
+			"68": { "amount": 1, "name": "Stukov" },
+			"77": { "amount": 0.8, "name": "Tyrande" },
+			"2": { "amount": 0.6, "name": "Alarak" },
+			"55": { "amount": 0.4, "name": "Nazeebo" }
 		},
 		"badSinergy": {
-
+			"43": { "amount": -1, "name": "Lt Morales" },
+			"84": { "amount": -0.6, "name": "Yrel" },
+			"34": { "amount": -0.5, "name": "Johanna" },
+			"50": { "amount": -0.4, "name": "Medivh" },			
+			"49": { "amount": -0.3, "name": "Malthael" },
+			"44": { "amount": -0.2, "name": "Lunara" }
 		},
 		"goodAgainst": {
-
+			"42": { "amount": 2, "name": "Li Ming" },
+			"37": { "amount": 1.9, "name": "Kel'Thuzad" },
+			"70": { "amount": 1.7, "name": "Tassadar" },
+			"4": { "amount": 1.6, "name": "Ana" },
+			"71": { "amount": 1.5, "name": "Butcher" },
+			"56": { "amount": 1.4, "name": "Nova" },
+			"29": { "amount": 1.3, "name": "Hanzo" },
+			"16": { "amount": 1.2, "name": "Chromie" },
+			"15": { "amount": 1, "name": "Chogall" },
+			"21": { "amount": 1, "name": "Etc" },
+			"58": { "amount": 0.9, "name": "Probius" },
+			"14": { "amount": 0.8, "name": "Chen" },
+			"31": { "amount": 0.7, "name": "Illidan" },
+			"24": { "amount": 0.6, "name": "Garrosh" },
+			"45": { "amount": 0.4, "name": "Lucio" }
 		},
 		"badAgainst": {
-
+			"89": { "amount": -1.5, "name": "Deathwing" },
+			"46": { "amount": -0.8, "name": "Maiev" },
+			"81": { "amount": -0.6, "name": "Varian" }
 		},
 		"goodIn": {
 
@@ -2543,6 +2569,34 @@
 		"id": "88",
 		"role": "support",
 		"canSoakWell": true,
+		"canBurst": false,
+		"doesPercentageDmg": false,
+		"hasGlobalMobility": true,
+		"canRepairStructures": true,
+		"goodSinergy": {
+
+		},
+		"badSinergy": {
+
+		},
+		"goodAgainst": {
+
+		},
+		"badAgainst": {
+
+		},
+		"goodIn": {
+
+		},
+		"badIn": {
+
+		}
+	},
+	{
+		"name": "Deathwing",
+		"id": "89",
+		"role": "bruiser",
+		"canSoakWell": false,
 		"canBurst": false,
 		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
