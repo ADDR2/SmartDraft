@@ -300,22 +300,48 @@
 		"name": "Artanis",
 		"id": "7",
 		"role": "bruiser",
-		"canSoakWell": true,
+		"canSoakWell": false,
 		"canBurst": false,
-		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"doesPercentageDmg": true,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
 		"goodSinergy": {
-
+			"77": { "amount": 1.2, "name": "Tyrande" },
+			"43": { "amount": 1, "name": "Lt Morales" },
+			"18": { "amount": 0.9, "name": "Deckard" },
+			"5": { "amount": 0.7, "name": "Anduin" },
+			"50": { "amount": 0.6, "name": "Medivh" },
+			"24": { "amount": 0.5, "name": "Garrosh" }
 		},
 		"badSinergy": {
-
+			"68": { "amount": -1, "name": "Stukov" },
+			"35": { "amount": -0.7, "name": "Junkrat" },
+			"2": { "amount": -0.6, "name": "Alarak" },
+			"30": { "amount": -0.5, "name": "Hogger" },
+			"84": { "amount": -0.5, "name": "Yrel" }
 		},
 		"goodAgainst": {
-
+			"70": { "amount": 1.5, "name": "Tassadar" },
+			"10": { "amount": 1.5, "name": "Azmodan" },
+			"37": { "amount": 1.3, "name": "Kel'Thuzad" },
+			"22": { "amount": 1.2, "name": "Falstad" },
+			"74": { "amount": 1, "name": "Tracer" },
+			"43": { "amount": 0.9, "name": "Lt Morales" },
+			"88": { "amount": 0.8, "name": "Zuljin" },
+			"65": { "amount": 0.8, "name": "Sgt. Hammer" },
+			"4": { "amount": 0.7, "name": "Ana" },
+			"62": { "amount": 0.6, "name": "Reghar" },
+			"17": { "amount": 0.5, "name": "Dva" }
 		},
 		"badAgainst": {
-
+			"78": { "amount": 1.5, "name": "Uther" },
+			"81": { "amount": 1.3, "name": "Varian" },
+			"21": { "amount": 1.2 ,"name": "Etc" },
+			"30": { "amount": 1, "name": "Hogger" },
+			"49": { "amount": 1, "name": "Malthael" },
+			"44": { "amount": 0.9, "name": "Lunara" },
+			"45": { "amount": 0.8, "name": "Lucio" },
+			"53": { "amount": 0.7, "name": "Muradin" }
 		},
 		"goodIn": {
 
