@@ -431,22 +431,54 @@
 		"name": "Auriel",
 		"id": "9",
 		"role": "healer",
-		"canSoakWell": true,
+		"canSoakWell": false,
 		"canBurst": false,
 		"doesPercentageDmg": false,
-		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"hasGlobalMobility": false,
+		"canRepairStructures": false,
+		"cCLevel": 1,
+		"hasDmgReduction": false,
+		"hasHealingReduction": false,
+		"hasCleanse": false,
+		"hasExile": false,
+		"canDisableStructures": false,
+		"canDoCampsFast": false,
 		"goodSinergy": {
-
+			"15": { "amount": 2, "name": "Chogall" },
+			"80": { "amount": 1.9, "name": "Valla" },
+			"23": { "amount": 1.8, "name": "Fenix" },
+			"69": { "amount": 1.6, "name": "Sylvanas" },
+			"44": { "amount": 1.4, "name": "Lunara" },
+			"42": { "amount": 1.2, "name": "Li Ming" },
+			"74": { "amount": 1, "name": "Tracer" },
+			"75": { "amount": 0.9, "name": "Tychus" },
+			"13": { "amount": 0.8, "name": "Cassia" },
+			"88": { "amount": 0.7, "name": "Zuljin" },
+			"65": { "amount": 0.6, "name": "Sgt. Hammer" },
+			"22": { "amount": 0.5, "name": "Falstad" }
 		},
 		"badSinergy": {
-
+			"58": { "amount": -1, "name": "Probius" },
+			"64": { "amount": -0.8, "name": "Samuro" },
+			"26": { "amount": -0.6, "name": "Genji" },
+			"87": { "amount": -0.4, "name": "Zeratul" }
 		},
 		"goodAgainst": {
-
+			"81": { "amount": 1.5, "name": "Varian" },
+			"60": { "amount": 1.4, "name": "Ragnaros" },
+			"47": { "amount": 1.3, "name": "Malganis" },
+			"78": { "amount": 1.2, "name": "Uther" },
+			"71": { "amount": 1, "name": "Butcher" },
+			"13": { "amount": 0.9, "name": "Cassia" },
+			"24": { "amount": 0.8, "name": "Garrosh" },
+			"21": { "amount": 0.4 ,"name": "Etc" },
+			"38": { "amount": 0.2, "name": "Kerrigan" }
 		},
 		"badAgainst": {
-
+			"46":{ "amount": -1, "name": "Maiev" },
+			"34": { "amount": -0.8, "name": "Johanna" },
+			"6": { "amount": -0.6, "name": "Anubarak" },
+			"31": { "amount": -0.5, "name": "Illidan" }
 		},
 		"goodIn": {
 
