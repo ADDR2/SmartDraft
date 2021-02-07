@@ -2671,22 +2671,34 @@
 		"name": "Deathwing",
 		"id": "89",
 		"role": "bruiser",
-		"canSoakWell": false,
+		"canSoakWell": true,
 		"canBurst": false,
 		"doesPercentageDmg": false,
 		"hasGlobalMobility": true,
-		"canRepairStructures": true,
+		"canRepairStructures": false,
 		"goodSinergy": {
-
+			"3": {"amount": 1, "name": "Alexstrasza" },
+			"28": { "amount": 0.8, "name": "Guldan" },
+			"40": { "amount": 0.6, "name": "Leoric" }
 		},
 		"badSinergy": {
-
+			"68": { "amount": -0.5, "name": "Stukov" },
+			"5": { "amount": -0.5, "name": "Anduin" },
+			"12": { "amount": -0.5, "name": "Brightwing" },
+			"9": { "amount": -0.5, "name": "Auriel" }
 		},
 		"goodAgainst": {
-
+			"8": { "amount": 1.5, "name": "Arthas" },
+			"24": { "amount": 1.5, "name": "Garrosh" },
+			"20": { "amount": 1.3, "name": "Diablo" },
+			"21": { "amount": 1.2, "name": "Etc" }
 		},
 		"badAgainst": {
-
+			"30": { "amount": -1.5, "name": "Leoric" },
+			"88": { "amount": -1.3, "name": "Zul'jin" },
+			"49": { "amount": -1.1, "name": "Malthael" },
+			"52": { "amount": -1.2, "name": "Mephisto" },
+			"32": { "amount": -0.9, "name": "Imperius" }
 		},
 		"goodIn": {
 
